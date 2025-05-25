@@ -22,4 +22,4 @@ Ini adalah contoh aplikasi WhatsApp Bot dengan tema **Tes Online Bahasa Inggris*
 * Copykan folder **database** ke folder **bin\Debug** atau **bin\Release**.
 * Setelah itu Anda bisa langsung menjalankan project dengan menekan tombol F5, kemudian mengeset lokasi direktori `WhatsAppNETAPINodeJs` dan menekan tombol `Start` untuk mengaktifkan bot.
 
-Untuk mendapatkan direktori `WhatsAppNETAPINodeJs`, langkah-langkahnya bisa Anda baca di [sini](http://wa-net.coding4ever.net/).
+Untuk mendapatkan direktori `WhatsAppNETAPINodeJs`, langkah-langkahnya bisa Anda baca di [sini](http://wa-net.coding4ever.net/).083844372471
